@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Begin Header Style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +41,8 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* End Header Style */
 
 a {
     color: #ffffff;
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/* style benefits side bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +192,7 @@ p {
     font-size: 36px;
 }
 
+/* Begin Footer Style */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +203,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* End Footer Style */
