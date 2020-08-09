@@ -1,7 +1,7 @@
-# Project Title
-Bootcamp Challenge 1: Horiseon Website
+# Code Refactor: Horiseon Website
 ​
-## Description 
+## Description
+
 ​This challenge involved corrected pre-existing code to improve accessibility. My motivation was to get better at organizing code, adding semantic elements, consolidating code so it's not repetitive, and adding aria labels. 
 
 I cloned the pre-existing code from a Github repository, brought it into VS Code, and got to work on the HTML and CSS files, which was fun. I realized that I think I really like de-bugging work.  It was quick and easy for me to find why the first nav link didn't work - a simple mistake in the HTML id.  I also realized that Github makes me want to throw heavy objects into bigger, heavier objects, until everything breaks. Like how my soul is breaking when I use Github. 
