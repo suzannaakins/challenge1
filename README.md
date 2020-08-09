@@ -10,7 +10,7 @@ So, needless to say, my biggest challenge was using Github. After I cloned the f
 
 The actual changing of the code part I loved!  Another challenge (related to the actual coding this time) was adding a screenreader to the HERO image.  I went to the Run Buddy project to see how we did it in that project since the img file was also in the CSS file and should be similar method, only to find out we DIDN'T!  How rude!  Blind and visually impaired people deserve to see the biggest photo on a webpage.  So I did some poking around and (hopefully) found a way to do it. I added text describing the image to the HTML "hero" section, and moved it wayyyyyy to the left margin so it's not VISIBLE, but hopefully a screen reader would read it aloud. 
 ​
-Here is a screenshot of what the final page looks like: ![screenshot of project](../mockup.png)
+Here is a screenshot of what the final page looks like: ![screenshot of project](./mockup.png)
 
 
 And now, without further ado, you can view my final project here: [GitHub](http://suzannaakins.github.io/challenge1)
